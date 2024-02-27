@@ -7,45 +7,71 @@ header {
     padding: 20px 0;
 }
 
-.nav {
-    background-color: #444;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
 
-.nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-.nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-.nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
 
 .content {
     padding: 20px;
 }
 
-.footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-
-    
-    
+.cebu {
+    font-size: 30px;
     
     
 }
+.cebu a:link {
+    color: red;
+}
+
+.cebu a:visited{
+    color: green;
+}
+
+.cebu a:hover {
+    color: hotpink;
+}
+
+.cebu a:active {
+    color: blue;
+}
+    
+   .batanes {
+    font-size: 30px;
+    
+    
+}
+.batanes  a:link {
+    color: red;
+}
+
+.batanes  a:visited{
+    color: green;
+}
+
+.batanes a:hover {
+    color: hotpink;
+}
+
+.batanes  a:active {
+    color: blue;
+} 
+    
+   .siargao {
+    font-size: 30px;
+    
+    
+}
+.siargao  a:link {
+    color: red;
+}
+
+.siargao  a:visited{
+    color: green;
+}
+
+.siargao a:hover {
+    color: hotpink;
+}
+
+.siargao  a:active {
+    color: blue;
+} 
