@@ -7,24 +7,24 @@ header {
     padding: 20px 0;
 }
 
-nav {
+.nav {
     background-color: #444;
     color: #fff;
     text-align: center;
     padding: 10px 0;
 }
 
-nav ul {
+.nav ul {
     list-style: none;
     padding: 0;
 }
 
-nav ul li {
+.nav ul li {
     display: inline;
     margin: 0 10px;
 }
 
-nav ul li a {
+.nav ul li a {
     color: #fff;
     text-decoration: none;
 }
@@ -33,7 +33,7 @@ nav ul li a {
     padding: 20px;
 }
 
-footer {
+.footer {
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -41,4 +41,11 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+
+    
+    
+    
+    
 }
